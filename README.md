@@ -6,7 +6,7 @@
 Dataset Source Link :
 [https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
 
- Table of Contents
+* Table of Contents
 Overview
 Dataset
 Installation
@@ -60,7 +60,8 @@ Running the Code
 To run the data preprocessing script:
 
 python preprocess.py
-To train the model:
+
+*To train the model:
 
 python train.py
 To make predictions:
@@ -80,8 +81,12 @@ Contributing
 * Contributions are welcome! Please follow these steps to contribute:
 
 Fork the repository.
+
 Create a new branch (git checkout -b feature/your-feature).
+
 Commit your changes (git commit -m 'Add some feature').
+
 Push to the branch (git push origin feature/your-feature).
+
 Create a new Pull Request.
 
