@@ -61,23 +61,31 @@ To run the data preprocessing script:
 
 python preprocess.py
 
-*To train the model:
+* To train the model:
 
 python train.py
+
 To make predictions:
 
 python predict.py
 Model
+
 The following models were evaluated during this project:
 
 Linear Regression
+
 Decision Tree Regressor
+
 Random Forest Regressor
+
 Gradient Boosting Regressor
+
 XGBoost Regressor
 * Results
+  
 The model performance was evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²). The best-performing model was Random Forest Regressor.
-Contributing
+* Contributing
+
 * Contributions are welcome! Please follow these steps to contribute:
 
 Fork the repository.
